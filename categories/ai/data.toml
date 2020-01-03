@@ -1,0 +1,20 @@
+[[crates]]
+name = "steering"
+source = "crates"
+
+[[crates]]
+name = "navmesh"
+source = "crates"
+homepage = "https://github.com/PsichiX/navmesh"
+
+[[crates]]
+name = "aspen"
+source = "crates"
+
+[[crates]]
+name = "piston-ai_behavior"
+source = "crates"
+
+[[crates]]
+name = "pathfinding"
+source = "crates"
